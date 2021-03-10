@@ -1,0 +1,17 @@
+{
+  "name": "ezcomeup",
+  "version": "1.0.0",
+  "description": "An AIO (All-In-One) bot to cop the latest kicks or threads from provided retailers such as Supreme, Yeezy Supply, SNKRS app, and more. Plug in the provided information, and you're good to go.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/cron",
+    "test": "node ./src/bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-stealth": "^2.7.5"
+  }
+}

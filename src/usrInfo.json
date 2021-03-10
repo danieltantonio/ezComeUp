@@ -1,0 +1,26 @@
+{
+    "account": {
+        "email": "",
+        "password": ""
+    },
+    "card": {
+        "number": "",
+        "expMonth": "",
+        "expYear": "",
+        "cvv": ""
+    },
+    "billing": {
+        "name": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+    },
+    "delivery": {
+        "name": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+    }
+}
